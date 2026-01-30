@@ -22,8 +22,8 @@ const positiveTests = [
 {
     id: "Pos_3",
     description: "daily paragraph",
-    input:"mama adha gedhara inne mokada vaessa loku vidhihata vahina nisaa saha office yanna amaru unaa ehema nisaa heta meeting eka thiyaganna kiyala hithan inne.",
-    expected:"මම අද ගෙදර ඉන්නේ මොකඩ වැස්ස ලොකු විදිහට වහින නිසා සහ office යන්න අමරු උනා එහෙම නිසා හෙට meeting එක තියගන්න කියල හිතන් ඉන්නේ." 
+    input:"mama adha gedhara inne mokadha vaessa loku vidhihata vahina nisaa saha office yanna amaru unaa ehema nisaa heta meeting eka thiyaganna kiyala hithan inne.",
+    expected:"මම අද ගෙදර ඉන්නේ මොකද වැස්ස ලොකු විදිහට වහින නිසා සහ office යන්න අමරු උනා එහෙම නිසා හෙට meeting එක තියගන්න කියල හිතන් ඉන්නේ." 
 },
 
 {
